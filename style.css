@@ -439,7 +439,7 @@ hr{
     align-items: center;
   }
   
-  .about .main img{
+  #about .main img{
     width: 680px;
     max-width: 100%;
     height: auto;
@@ -532,7 +532,7 @@ hr{
   }
   
   @media screen and (max-width: 650px){
-    .about .main img{
+    #about .main img{
       margin-bottom: 35px;
       width: 100%;
     }
