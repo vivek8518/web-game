@@ -14,7 +14,7 @@ let questions = [
     {
     numb: 2,
     question: "One ton of refrigeration is equal to ______?",
-    answer: " 12000 B Th U/hr",
+    answer: "12000 B Th U/hr",
     options: [
       "120 B Th U/hr",
       "200 B Th U/hr",
@@ -47,7 +47,7 @@ let questions = [
     {
     numb: 5,
     question: "Which of the following relations depict relation between Celsius and Fahrenheit scale??",
-    answer: "e(oC / 5) = (oF – 32) / 9",
+    answer: "(oC / 5) = (oF – 32) / 9",
     options: [
       "(oC / 5) = (oF – 32) / 9",
       "(oC / 9) = (oF – 32) / 5",
